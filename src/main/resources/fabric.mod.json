@@ -18,6 +18,9 @@
 		"main": [
 			"com.luisito.HelloFabric"
 		],
+		"client": [
+			"com.luisito.HelloFabricClient"
+		],
 		"fabric-datagen": [
 			"com.luisito.HelloFabricDataGenerator"
 		]
